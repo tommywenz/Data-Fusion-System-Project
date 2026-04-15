@@ -1,0 +1,34 @@
+dataset_id,canonical_dataset,sensor_type
+D_b6b2ff3fec47,Actual Evapotranspiration Multi-source Data,Hydrology / Climate
+D_3b3127ff50f9,Agronomic Logs,Agricultural / Sensor
+D_8ef5b38574b6,Bone Mineral Density Phenotypes,Bio / Omics
+D_23b3eb68fb12,Boston Building Dataset,Aerial Imagery + LiDAR
+D_fd58d08cf68f,Crop Quality Measurements,Agricultural / Sensor
+D_8a6d2c80876f,Crop RGB Images,Agricultural / Sensor
+D_cb240a165671,Demographic Source Tables,Tabular / Administrative
+D_b3fc65850ec7,Greenhouse Sensor Data,Agricultural / Sensor
+D_4d29957e635f,Gut Metagenome,Bio / Omics
+D_54d615c39d88,Human Brain Layer 1 scRNA-seq,Bio / Omics
+D_72125e979f80,Human Brain MTG scRNA-seq,Bio / Omics
+D_20bf4829ee02,Incomplete Tabular Datasets,Tabular / Administrative
+D_351c3ea16fe3,IoT Sensor Network Datasets,IoT / Sensor
+D_075c217195de,Isolated Cluster WSN Data,IoT / Sensor
+D_a5a5da144741,Location Time-Series Datasets,IoT / Sensor
+D_d685ebe6f1d1,MIMU Inertial Data,IoT / Sensor
+D_3c63c27c6e70,MedPix,Medical / Image
+D_d6c9e5058083,Multimodal Biomedical Images,Medical / Image
+D_b0d40decc621,NIST 2008 SRE,Audio / Speech
+D_4c48c7caf427,Post-earthquake Damage and Injury Reports,Emergency / Public Health
+D_b71a13fe0926,Post-earthquake Medical Demand,Emergency / Public Health
+D_d006874aab35,Redwood RGB-D,RGB-D
+D_940d6da2ce79,Russian Reading Eye-tracking,Eye-tracking
+D_90b058566c52,SITW 2016,Audio / Speech
+D_ed519ba5eb15,ScanNet,RGB-D
+D_25c23a0849ca,Serum Metabolome,Bio / Omics
+D_72527c60d20a,Smart Meter Records,IoT / Sensor
+D_0cb45c03b48c,Surveillance Images,Medical / Image
+D_9bcf151a9cbb,TIMIT,Audio / Speech
+D_61a7eac54f21,TUM RGB-D,RGB-D
+D_0ccc59d0ccd1,Vehicle Navigation Data,IoT / Sensor
+D_cc09af89a2ca,WHU Building Dataset,Aerial Imagery + LiDAR
+D_6a03d5d73545,WSN Readings,IoT / Sensor
