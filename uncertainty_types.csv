@@ -1,4 +1,0 @@
-uncertainty_code,name,definition
-U1,Conception,Ambiguity in how the real world is defined or abstracted.
-U2,Measurement,"Sensor errors, resolution limits, missing data, or measurement noise."
-U3,Analysis,"Algorithmic assumptions, model bias, or processing errors."
